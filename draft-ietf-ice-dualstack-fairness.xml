@@ -13,8 +13,7 @@
 <rfc category="info" docName="draft-ietf-ice-dualstack-fairness-latest"
      ipr="trust200902">
   <front>
-    <title abbrev="ICE Multihomed and DualStack Fairness ">ICE
-    Multihomed and IPv4/IPv6 Dual Stack Fairness</title>
+    <title abbrev="ICE Multihomed and DualStack Fairness ">ICE Multihomed and IPv4/IPv6 Dual Stack Fairness</title>
     <author fullname="Paal-Erik Martinsen" initials="P.E" surname="Martinsen">
       <organization abbrev="Cisco">Cisco Systems, Inc.</organization>
       <address>

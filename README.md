@@ -1,9 +1,9 @@
-# {DRAFT_TITLE}
+# ICE Multihomed and IPv4/IPv6 Dual Stack Fairness
 
-This is the working area for the {DRAFT_STATUS} internet-draft, "{DRAFT_TITLE}".
+This is the working area for the Working Group internet-draft, "ICE Multihomed and IPv4/IPv6 Dual Stack Fairness".
 
-* [Editor's copy](https://{GITHUB_USER}.github.io/{GITHUB_REPO}/)
-* [{DRAFT_STATUS} Draft] (https://tools.ietf.org/html/{DRAFT_NAME})
+* [Editor's copy](https://ice-wg.github.io/dualstack-fairness/)
+* [Working Group Draft] (https://tools.ietf.org/html/draft-ietf-ice-dualstack-fairness)
 
 
 ## Building the Draft
@@ -22,8 +22,8 @@ instructions](https://github.com/martinthomson/i-d-template/blob/master/doc/SETU
 
 Before submitting feedback, please familiarize yourself with our current issues
 list and review the [working group
-documents](https://datatracker.ietf.org/wg/{WG_NAME}/documents/) and [mailing
-list discussion](https://mailarchive.ietf.org/arch/browse/{WG_NAME}/). If you're
+documents](https://datatracker.ietf.org/wg/ice/documents/) and [mailing
+list discussion](https://mailarchive.ietf.org/arch/browse/ice/). If you're
 new to this, you may also want to read the [Tao of the
 IETF](https://www.ietf.org/tao.html).
 
@@ -32,7 +32,7 @@ terms outlined below.
 
 1. The best way to provide feedback (editorial or design) and ask questions is
 sending an e-mail to our mailing list
-([info](https://www.ietf.org/mailman/listinfo/{WG_NAME})). This will ensure that
+([info](https://www.ietf.org/mailman/listinfo/ice)). This will ensure that
 the entire Working Group sees your input in a timely fashion.
 
 2. If you have **editorial** suggestions (i.e., those that do not change the
